@@ -37,6 +37,9 @@ Isolation Forest Algorithm: Machine learning model to detect anomalies based on 
 ngrok: Tunnels to host and test the app online for easy sharing.
 Workflow:
 
+
+The link sometimes doesn't connect to the server , we recommend to test it in google colab 
+
 Input: Transactional data with Time and Amount features.
 Preprocessing: Standardizes data using StandardScaler.
 Detection: Trains Isolation Forest to flag anomalies (contamination rate: 1%).
